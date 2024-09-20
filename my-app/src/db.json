@@ -1,0 +1,88 @@
+{
+  "particular": [
+    {
+      "id": "dd94",
+      "type": "Groccery"
+    },
+    {
+      "id": "1b9a",
+      "type": "School Fees"
+    },
+    {
+      "id": "0610",
+      "type": "Party"
+    },
+    {
+      "id": "957b",
+      "type": "College"
+    },
+    {
+      "id": "5713",
+      "type": "Shopping"
+    }
+  ],
+  "Users": [
+    {
+      "id": "443a",
+      "name": "Kingsman",
+      "email": "saurabhchauraaaaaaAsiabbf@gmail.com",
+      "mobile": "9967690655"
+    },
+    {
+      "id": "b696",
+      "name": "Saurabh Chaurasia",
+      "email": "Saurabh@gmail.com",
+      "mobile": "9967690655"
+    },
+    {
+      "id": "b0c6",
+      "name": "Shivam Dubey",
+      "email": "Shivam@gmail.com",
+      "mobile": "8949713064"
+    },
+    {
+      "id": "df06",
+      "name": "Saurabh Chaurasia",
+      "email": "Saurabh@gmail.com",
+      "mobile": "7777777777"
+    }
+  ],
+  "entries": [
+    {
+      "id": "4b6e",
+      "username": "Kingsman",
+      "amount": "5000",
+      "date": "2024-07-18",
+      "particularType": "School Fees",
+      "expenseType": "Credit",
+      "message": "demo"
+    },
+    {
+      "id": "dfd3",
+      "username": "Saurabh Chaurasia",
+      "amount": "5000",
+      "date": "2024-06-06",
+      "particularType": "Parting",
+      "expenseType": "Debit",
+      "message": "demo text"
+    },
+    {
+      "id": "5c7f",
+      "username": "Shivam Dubey",
+      "amount": "25100",
+      "date": "2024-06-30",
+      "particularType": "Groccery",
+      "expenseType": "Credit",
+      "message": "Text"
+    },
+    {
+      "id": "0fec",
+      "username": "Kingsman",
+      "amount": "2000",
+      "date": "2024-09-20",
+      "particularType": "School Fees",
+      "expenseType": "Debit",
+      "message": "Debit"
+    }
+  ]
+}
